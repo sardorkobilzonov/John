@@ -1,0 +1,18 @@
+.social__media {
+  padding-top: 100px;
+  text-align: center;
+  display: flex;
+  gap: 35px;
+  align-items: center;
+  justify-content: center;
+}
+.social__media .media {
+  cursor: pointer;
+}
+
+.footer__text {
+  padding-top: 26px;
+  padding-bottom: 55px;
+  text-align: center;
+  color: #21243d;
+}/*# sourceMappingURL=footer.css.map */
