@@ -1,0 +1,42 @@
+.blog {
+  padding-left: 220px;
+}
+.blog .blog__h1 {
+  padding-top: 106px;
+  font-size: 44px;
+  color: #21243d;
+}
+.blog .week {
+  padding-top: 55px;
+}
+.blog .week .week__h2 {
+  font-size: 30px;
+  color: #21243d;
+}
+.blog .week .feb1 {
+  padding-top: 17px;
+  display: flex;
+  align-items: center;
+  gap: 50px;
+}
+.blog .week .feb1 .icon1 {
+  line-height: 24px;
+}
+.blog .week .feb1 .icon2 {
+  line-height: 24px;
+  color: #8695a4;
+}
+.blog .week .mollit {
+  padding-top: 16px;
+  max-width: 670px;
+  width: 100%;
+}
+.blog .week .mollit p {
+  color: #21243d;
+}
+
+@media (max-width: 448px) {
+  .blog {
+    padding-left: 18px;
+  }
+}/*# sourceMappingURL=blog-main.css.map */

@@ -1,0 +1,50 @@
+.blog {
+  padding-left: 220px;
+  .blog__h1 {
+    padding-top: 106px;
+    font-size: 44px;
+    color: #21243d;
+  }
+  .week {
+    padding-top: 55px;
+    .week__h2 {
+      font-size: 30px;
+      color: #21243d;
+    }
+    .feb1 {
+      padding-top: 17px;
+      display: flex;
+      align-items: center;
+      // justify-content: center;
+      gap: 50px;
+      .icon1 {
+        line-height: 24px;
+      }
+      .icon2 {
+        line-height: 24px;
+        color: #8695a4;
+      }
+    }
+    .mollit {
+      padding-top: 16px;
+      max-width: 670px;
+      width: 100%;
+      p {
+        color: #21243d;
+      }
+    }
+  }
+}
+
+@media (max-width: 448px) {
+  .blog {
+    padding-left: 18px;
+  }
+}
+
+@media (max-width: 768px) {
+}
+@media (max-width: 986px) {
+}
+@media (max-width: 1240px) {
+}
